@@ -1,8 +1,3 @@
-The task involved developing a number-guessing game where the computer generates a random number between 1 and 100, and the player has to guess it. The game provides feedback if the guess is too high, too low, or correct.
-I added some extra features to make it even more interesting:
-Limited the number of attempts to guess the number, adding a challenging twist.
-Included an option for multiple rounds, allowing players to enjoy the game repeatedly.
-Implemented a scoring system based on the number of attempts or rounds won.
 
 import java.util.Random;
 import java.util.Scanner;
